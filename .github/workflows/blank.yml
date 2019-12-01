@@ -1,0 +1,17 @@
+name: TAKATA
+
+on: [TAKATA95]
+
+jobs:TAKATA
+  build:TAKATA
+
+    runs-on: TAKATA-latest
+
+    steps:https://github.com/Takata95/Newscript
+    - uses: https://github.com/Takata95/Newscript
+    - name: slamat mencoba
+      run: echo Hello, world!
+    - name: Run a multi-line script
+      run: |
+        echo Add other actions to build,
+        echo test, and deploy your project.
